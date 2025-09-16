@@ -1,0 +1,54 @@
+[
+    {
+        "id": "7a85b39b-809b-447c-aae4-f5281b02a746",
+        "source": "reddit_post",
+        "author": "tremberz90",
+        "timestamp": "2025-09-15T18:24:36.366881+00:00",
+        "text": "8 summer days in the Norwegian fjords 🌸🌿⛰️\nPhotos 1-3: Hjelle. Photos 4-6: Lake Lovatnet. Photo 7: Sogndalsfjøra. Photo 8: Bøyabreen Glacier Photo 9: Loen. Photo 10: Gudvanger. Photos 11-12: Dalsnibba. Photos 13-16: Geiranger. Photos 17-18: Trollstigen. Photos 18-20: Ålesund.",
+        "metadata": {
+            "url": "https://www.reddit.com/r/travel/comments/1ng3bld/8_summer_days_in_the_norwegian_fjords/",
+            "likes": 11041,
+            "language": "en",
+            "rating": null
+        }
+    },
+    {
+        "id": "6f94a42a-73a8-4d8c-99c2-33fe3609f5e3",
+        "source": "reddit_post",
+        "author": "SubflyDev",
+        "timestamp": "2025-09-15T18:27:15.968198+00:00",
+        "text": "Your free bookmark manager just got a huge update!\nHey everyone\n\nAbout 3 months ago, I released [YABA (Yet Another Bookmark App)](https://apps.apple.com/app/yaba-yet-another-bookmark-app/id6747272081) — a bookmarking app that’s:  \n\\- 100% free — no ads, no subscriptions, no payments, ever  \n\\- 100% open-source — you can check everything yourself  \n\\- 100% privacy-friendly — no tracking, no data collection, no analytics  \n\\- Fully native — designed to feel at home on Apple platforms\n\nSince then, YABA has been downloaded **over 2,000 times** 🎉. I’m beyond grateful for everyone who’s tried it, shared feedback, and supported this project — you’re the reason it keeps getting better 💙.\n\nHere’s a quick look at what’s happened since v1.0:\n\n**v1.2** — Dark app icon, announcements tab, “recents” toggle for home screen, CloudKit stability, import/export fixes.  \n  \n**v1.3** — Backlink/tracker remover, Markdown export, quick delete in creation sheet, and the last release with iCloud sync.\n\nAnd now, the biggest update yet:\n\n**v1.4 Highlights**\n\n* **Keyboard Extension (iOS & iPadOS)** — access bookmarks instantly from any app.\n* **Widgets (all platforms)** — pin folders/tags or view your most recent bookmarks at a glance.\n* **Control Center Shortcut** — launch YABA in seconds, even from the lock screen.\n* **All-New Sync** — iCloud is out! YABA now has its own private, independent sync system. Connect devices on the same network and sync in a few taps — no servers, no accounts.\n* **Liquid Glass Design** — a modern refresh across platforms.\n* **How-To Guide** — built-in instructions for getting started.\n* **Customizable Create Button (iOS)** — adjust the floating button to fit your workflow.\n\nPlus: smoother editing, import/export reliability, and lots of polish across macOS, iOS, and iPadOS.\n\n**What’s next**\n\n* Folder-in-folder support\n* Drag & drop reorganization\n* Custom folder/tag ordering\n* A reworked macOS menu bar\n* Safari extension\n* Android + Windows/Linux apps 🎉\n\nIf you’re looking for a bookmarking app that’s free, open-source, private, and actually nice to use — give YABA a try:\n\nApp Store: [https://apps.apple.com/app/yaba-yet-another-bookmark-app/id6747272081](https://apps.apple.com/app/yaba-yet-another-bookmark-app/id6747272081)\n\nGitHub: [https://github.com/Subfly/YABA](https://github.com/Subfly/YABA)\n\nThanks again to everyone who downloaded YABA, sent feedback, or just cheered me on. Here’s to the next 2,000! 🚀\n\nHappy bookmarking 📚",
+        "metadata": {
+            "url": "https://www.reddit.com/r/apps/comments/1nhi7o3/your_free_bookmark_manager_just_got_a_huge_update/",
+            "likes": 1,
+            "language": "en",
+            "rating": null
+        }
+    },
+    {
+        "id": "4d951f32-89e6-4e9f-9cd2-b5429af78462",
+        "source": "news_article",
+        "author": "David Nikel, Senior Contributor, \n David Nikel, Senior Contributor\n https://www.forbes.com/sites/davidnikel/",
+        "timestamp": "2025-09-15T18:31:18.087596+00:00",
+        "text": "Travel Chaos After Landslide Splits Norway In Two\nA deadly landslide has severed Norway’s main north–south highway and rail line near Levanger, forcing travelers onto long detours.",
+        "metadata": {
+            "url": "https://www.forbes.com/sites/davidnikel/2025/08/30/travel-chaos-after-landslide-splits-norway-in-two/",
+            "language": "en",
+            "rating": null,
+            "likes": null
+        }
+    },
+    {
+        "id": "156eef51-5b51-40ee-bd57-7642d984f300",
+        "source": "news_article",
+        "author": "Christiane Brosius, Axel Michaels",
+        "timestamp": "2025-09-15T18:32:12.726029+00:00",
+        "text": "Protest in Nepal: Aufstand in Schuluniform\nDie Proteste in Nepal sind die Rebellion einer übersehenen Jugend gegen die alten Eliten. Dass sie sich an einer Onlinesperre entzünden, kommt nicht von ungefähr.",
+        "metadata": {
+            "url": "https://www.faz.net/aktuell/feuilleton/debatten/protest-in-nepal-soziale-medien-110678872.html",
+            "language": "en",
+            "rating": null,
+            "likes": null
+        }
+    }
+]
